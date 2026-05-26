@@ -9,3 +9,5 @@ sentence-transformers==4.1.0
 chromadb==1.0.10
 PyMuPDF==1.25.5
 pytest==8.3.5
+pytest-asyncio==0.24.0
+anyio==4.9.0
