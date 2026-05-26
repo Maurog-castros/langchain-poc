@@ -1,0 +1,15 @@
+.env
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+data/chroma/
+data/documents/*
+!data/documents/.gitkeep
+models/
+artifacts/
+reports/*
+!reports/.gitkeep
+node_modules/
+dist/
+.DS_Store
